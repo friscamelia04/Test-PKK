@@ -1,0 +1,80 @@
+@charset "utf-8";
+
+body{
+	background-image: url('images/latar.png');
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+.konten{
+	padding-top: 30px;
+	padding-left: 90px;
+	padding-right: 90px;
+	padding-bottom: 30px;
+	background-color: rgba(255,255,0,0.5);
+	border-radius: 30px;
+	font-family: century gothic;
+}
+.button{
+	padding-bottom: 20px;
+	padding-top: 30px;
+	background-color: rgba(173,216,230);
+	border-radius: 100px;
+	font-family: century gothic;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+a:hover{
+	text-decoration: none;
+	color: white;
+}
+.tabel{
+	padding-top: 180px;
+}
+.judul{
+	padding-bottom: 20px;
+	padding-top: 30px;
+	background-color: rgba(255,255,0);
+	border-radius: 100px;
+	font-family: century gothic;
+}
+.pilih{
+	padding-top: 30px;
+	padding-left: 90px;
+	padding-right: 90px;
+	padding-bottom: 30px;
+	background-color: white;
+	border-radius: 30px;
+	font-family: century gothic;
+}
+.oke{
+	text-decoration: none;
+	color: black;
+}
+.oke:hover{
+	text-decoration: none;
+	color: rgba(255,255,0);
+}
+.konten_pilih{
+	padding-top: 30px;
+	padding-left: 70px;
+	padding-right: 70px;
+	padding-bottom: 20px;
+	background-color: rgba(255,255,225,0.5);
+	border-radius: 30px;
+	font-family: century gothic;
+}
+.kembali{
+	padding-bottom: 10px;
+	padding-top: 10px;
+	margin-top: 0px;
+	background-color: rgba(255,255,0);
+	border-radius: 30px;
+	font-family: century gothic;
+	width: 150px;
+	text-align: center;
+}
+.back{
+	position: fixed;
+}
